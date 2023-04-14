@@ -7,3 +7,4 @@ Mock up<img width="965" alt="Screen Shot 2022-10-17 at 8 36 37 PM" src="https://
 <img width="883" alt="Screen Shot 2022-10-17 at 8 36 58 PM" src="https://user-images.githubusercontent.com/112598840/196308752-24857aec-7e9a-4e3b-920a-9134108b8ddc.png">
 
  Afrema90/Third-Party-APIs-Challenge-Work-Day-Scheduler
+ 
